@@ -1,7 +1,7 @@
 # Hi, I'm Haden
 ![Release Date](https://img.shields.io/badge/Release%20date-Nov%201997-success)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cynicalvoe&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cynicalvoe&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a full-time software developer with interests in Backend Development, UI/UX Design, and Mobile Apps.
 
